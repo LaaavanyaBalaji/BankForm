@@ -1,0 +1,27 @@
+.section{
+    background-image: linear-gradient(rgb(146, 222, 146),white);
+}
+.hea{
+    margin: 20px;
+    background-color: green;
+    position: relative;
+    
+}
+.logo{
+    float: right;
+    position: relative;
+    z-index: inherit;
+    height: 100px;
+    width:200px;
+}
+label{
+    padding-bottom: 30px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.p1{
+    background-color: rgb(114, 225, 114);
+}
+input{
+    padding: 2px;
+}
